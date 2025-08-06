@@ -17,11 +17,11 @@ If not installed, run: `conda install jupyterlab`
 ## Step 2: Get the repo from GitHub
 At the Anaconda prompt enter:
 
-`git clone https://github.com/ingwanelabs/etl-hackathon`
+`git clone https://github.com/ingwanelabs/etl-pipeline.git`
 
 Change to the newly created directory:
 
-`cd etl-hackathon`
+`cd etl-pipeline`
 
 ## Step 3: Launch JupyterLab
 From the **Anaconda prompt** ...
